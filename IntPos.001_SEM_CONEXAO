@@ -1,0 +1,5 @@
+000-000 = CRT
+30 = Sem conexao Servidor
+030-000 = Sem conexao Servidor
+4100 = TCP:C:111
+003-000 = 3,29

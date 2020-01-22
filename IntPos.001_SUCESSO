@@ -1,0 +1,103 @@
+000-000 = CRT
+0 = 529996328
+1 = 070404000205
+2 = 56
+9 = 0
+009-000 = 0
+30 =  
+030-000 =  
+100 = 0200
+101 = Cartao de Credito a Vista
+102 = T.E.F.
+105 = 20190704102814
+121 = .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 2,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 40002
+MU                      04/07/19 10:28
+LA                    ID PDV: poc31000
+DO             Estab.: 000000000000005
+.....S...I.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+SI                              Rede 5
+MU               Codigo transacao: 200
+LA               Codigo operacao: 3000
+DO                         Valor: 2,00
+.....S...I...M...U...L...A...D...O....
+SI                    NSU SiTef: 40002
+MU                      04/07/19 10:28
+LA                    ID PDV: poc31000
+DO             Estab.: 000000000000005
+.....S...I...M...U...L...A...D...O....
+SI                     Host: 999040002
+MU         Transacao Simulada Aprovada
+                               (SiTef)
+
+VIA1 = .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+VIA1 = SI                              Rede 5
+VIA1 = MU               Codigo transacao: 200
+VIA1 = LA               Codigo operacao: 3000
+VIA1 = DO                         Valor: 2,00
+VIA1 = .....S...I...M...U...L...A...D...O....
+VIA1 = SI                    NSU SiTef: 40002
+VIA1 = MU                      04/07/19 10:28
+VIA1 = LA                    ID PDV: poc31000
+VIA1 = DO             Estab.: 000000000000005
+VIA1 = .....S...I.....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+VIA1 = SI                              Rede 5
+VIA1 = MU               Codigo transacao: 200
+VIA1 = LA               Codigo operacao: 3000
+VIA1 = DO                         Valor: 2,00
+VIA1 = .....S...I...M...U...L...A...D...O....
+VIA1 = SI                    NSU SiTef: 40002
+VIA1 = MU                      04/07/19 10:28
+VIA1 = LA                    ID PDV: poc31000
+VIA1 = DO             Estab.: 000000000000005
+VIA1 = .....S...I...M...U...L...A...D...O....
+VIA1 = SI                     Host: 999040002
+VIA1 = MU         Transacao Simulada Aprovada
+VIA1 =                                (SiTef)
+VIA1 = 
+
+
+
+
+122 = .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+VIA2 = .....S.O.F.T.W.A.R.E.E.X.P.R.E.S.S....
+123 = ...M...U...L...A...D...O....
+VIA2 = ...M...U...L...A...D...O....
+131 = 00005
+132 = 00002
+133 = 040002
+134 = 999040002
+135 = 040002
+136 = 550209
+156 = MASTERCARD      
+010-000 = MASTERCARD      
+157 = 000000000000005
+158 = 05
+161 = 0
+170 = 1
+171 = 2
+172 = 99
+174 = 1
+175 = 2
+176 = 99
+724 = 0
+725 = 0
+726 = 0
+727 = 0
+800 = F6B4EB1782A81ED9BA100CE41F3BD98E3242D790
+1002 = 2702
+1190 = 1684
+2010 = 00
+2090 = 6
+2091 = 0
+2333 = 1
+2362 = 0
+2364 = 1
+2421 = 0
+5074 = 0
+003-000 = 2,00
